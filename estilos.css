@@ -1,0 +1,56 @@
+h6{
+    font-size:20px;
+    background:30px beige;
+    color:black;
+    }
+    
+    header{
+        background:url(https://ksr-ugc.imgix.net/assets/011/494/964/ebe9b23de2a40e96f37be31d8bc70603_original.png?ixlib=rb-1.1.0&crop=faces&w=1024&h=576&fit=crop&v=1463683571&auto=format&frame=1&q=92&s=91a5fd1c7d3a7abfb03498695202cdc8);
+        color:red;
+        width:90%;
+        height:70%;
+        background-size:cover;
+    
+    }
+    *{
+    background:url(https://www.cedeus.cl/wp-content/uploads/2018/08/MIN-Patrones-Salud-Mental.png)
+    
+    
+    }
+    
+    article{
+
+        height:220px;
+        margin:10px 0px;
+        padding:40px;
+        border:3px solid #000;
+        display:inline-block;
+
+    }
+    article,p{
+         font-size:10px;}
+    .imagenes{
+
+width:180px;
+    
+    }
+    .a{
+font-size:10px;
+color:black;
+
+    }
+    section{
+
+margin:100px 0px;
+
+    }
+    button{
+     background:dimgrey;
+     margin:-10px;
+      
+    }
+    .texto_grande{
+font-size:25px;
+
+
+    }
